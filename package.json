@@ -20,7 +20,7 @@
     "dotenv": "^16.4.7",
     "framer-motion": "^12.0.3",
     "next": "14.2.23",
-    "next-sanity": "latest", // Updated to latest version
+    "next-sanity": "latest",
     "nodemailer": "^6.10.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
